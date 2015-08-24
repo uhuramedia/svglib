@@ -22,6 +22,7 @@ import types
 import re
 import operator
 import gzip
+import string
 import xml.dom.minidom 
 
 from reportlab.pdfbase.pdfmetrics import stringWidth
