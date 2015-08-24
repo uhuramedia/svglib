@@ -22,6 +22,7 @@ import types
 import re
 import operator
 import gzip
+import string
 import xml.dom.minidom 
 
 from math import sqrt, sin, cos, atan2, pi
